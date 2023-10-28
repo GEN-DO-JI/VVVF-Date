@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>モハラジオ録音データ集</title>
+    <style>
+    .Center{
+  text-align: center;
+}
+
+.Center {font-family:  "ヒラギノ角ゴ ProN W3", 
+HiraKakuProN-W3, 游ゴシック, "Yu Gothic",
+ メイリオ, Meiryo, Verdana, Helvetica, Arial, sans-serif;
+}
+.font {font-family:  "ヒラギノ角ゴ ProN W3", 
+HiraKakuProN-W3, 游ゴシック, "Yu Gothic",
+ メイリオ, Meiryo, Verdana, Helvetica, Arial, sans-serif;
+}
+  }
+.Center{
+  height: 150px;
+  
+}
+details {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 0.5em 0.5em 0;
+}
+
+summary {
+  font-weight: bold;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+}
+
+details[open] {
+  padding: 0.5em;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 0.5em;
+}
+
+    </style>
+  </head>
+
+  <body>
+      <div class="Center">
+      <h1>モハラジオ録音データ集</h1></div>
+    <div class='font'><h2>はじめに</h2>
+    <p>・音声は、各形式のページを開くと自動で再生が開始されるようになっているので、音量にご注意ください。</p>
+    <p>・音声の使用についてはこちらをご覧ください。(現在「こちら」のページは製作中です。）</p>
+    <p>・すんません、CSSがしっかり作られてるわけじゃないのでスマホだとまともに見ることできません。</p>
+    <h2>公開データ</h2>
+     <h3>京王電鉄</h3>
+      <details>
+  <summary>京王8000系</summary>
+　<p>未更新</p>
+<audio controls src="https://github.com/V-piece/Toybox/raw/V-piece-patch-1/ZOOM0043.mp3"type="audio/mp3">日立GTO</audio>
+<p>８連更新</p>
+
+<p>10連更新</p>
+  </details>
+  <h3>JR東日本</h3>
+      <details>
+  <summary>E231系</summary>
+　<p>未更新（800番台で収録）</p>
+<audio controls src="https://github.com/V-piece/Toybox/raw/V-piece-patch-1/ZOOM0174.WAV" type="audio/wav">幽霊インバーター</audio>
+</details></div>
+
+  </body>
+</html>
